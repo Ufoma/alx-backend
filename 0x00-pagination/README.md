@@ -18,7 +18,7 @@ This project shows how to implement pagination in a dataset in Python using vari
 - Python 3.x
 
 ## Data used
-[Popular baby names.csv] (https://intranet.alxswe.com/rltoken/NBLY6mdKDBR9zWvNADwjjg)
+[Popular baby names.csv](https://intranet.alxswe.com/rltoken/NBLY6mdKDBR9zWvNADwjjg)
 
 ## Setup
 Clone this repository to your local machine and navigate to the project directory.
